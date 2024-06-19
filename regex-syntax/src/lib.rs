@@ -1,3 +1,5 @@
+#![feature(restricted_std)]
+
 /*!
 This crate provides a robust regular expression parser.
 
