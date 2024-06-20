@@ -1,3 +1,5 @@
+#![feature(restricted_std)]
+
 /*!
 This crate provides routines for searching strings for matches of a [regular
 expression] (aka "regex"). The regex syntax supported by this crate is similar
